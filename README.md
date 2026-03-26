@@ -4,8 +4,9 @@
 ---
 
 - 🚀 I’m currently working on **full-stack web applications**
+- 🤖 I’m exploring **automation tools and workflows (Make, n8n)**
 - 🌱 I’m currently learning **backend architecture, APIs and scalable systems**
-- 💬 Ask me about **React, Node.js, PostgreSQL or full-stack projects**
+- 💬 Ask me about **React, Node.js, PostgreSQL or automation workflows**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/emilio-david-villalba-barreto-5633a1321)**
 
 ---
@@ -15,6 +16,13 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,postgres,git,github,vscode,tailwind,postman" />
 </p>
+
+---
+
+## ⚙️ Automation & Workflows
+
+- Make (Integromat)
+- n8n
 
 ---
 
